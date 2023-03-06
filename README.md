@@ -1,5 +1,5 @@
 # Wordle-DataMining
-<<<<<<< HEAD
+
 We solved the problem C of 2023 MCM contest.
 =======
 
